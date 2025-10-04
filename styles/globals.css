@@ -18,6 +18,63 @@ a {
 }
 
 .viewer {
-    width: 100vw;
-    height: 100vh;
+  width: 100vw;
+  height: 100vh;
+}
+
+.text-warning.card-title.h5 {
+  font-weight: bold;
+}
+
+.text-center.mb-5.text-light {
+  font-weight: bold;
+}
+/* === Toast Slide Animation === */
+.toast-container .toast {
+  transform: translateX(120%);
+  opacity: 0;
+  animation: slideIn 0.4s ease-out forwards, slideOut 0.4s ease-in 4.6s forwards;
+  position: relative;
+  overflow: hidden;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(120%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideOut {
+  from {
+    transform: translateX(0);
+    opacity: 1;
+  }
+  to {
+    transform: translateX(120%);
+    opacity: 0;
+  }
+}
+
+/* === Toast Progress Bar === */
+.toast-progress {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 4px;
+  background-color: #0d6efd;
+  animation: toastProgress 5s linear forwards;
+}
+
+@keyframes toastProgress {
+  from {
+    width: 100%;
+  }
+  to {
+    width: 0%;
+  }
 }

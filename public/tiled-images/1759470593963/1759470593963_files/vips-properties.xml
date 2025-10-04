@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<image xmlns="http://www.vips.ecs.soton.ac.uk//dzsave" date="2025-10-03T05:49:54.505932Z" version="8.17.2">
+  <properties>
+    <property>
+      <name>width</name>
+      <value type="gint">1333</value>
+    </property>
+    <property>
+      <name>height</name>
+      <value type="gint">2000</value>
+    </property>
+    <property>
+      <name>bands</name>
+      <value type="gint">3</value>
+    </property>
+    <property>
+      <name>xoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>yoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>xres</name>
+      <value type="gdouble">2.8346456692913389</value>
+    </property>
+    <property>
+      <name>yres</name>
+      <value type="gdouble">2.8346456692913389</value>
+    </property>
+    <property>
+      <name>vips-loader</name>
+      <value type="VipsRefString">jpegload</value>
+    </property>
+    <property>
+      <name>jpeg-multiscan</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>jpeg-chroma-subsample</name>
+      <value type="VipsRefString">4:4:4</value>
+    </property>
+    <property>
+      <name>resolution-unit</name>
+      <value type="VipsRefString">in</value>
+    </property>
+    <property>
+      <name>exif-ifd0-ImageDescription</name>
+      <value type="VipsRefString">A Rocket Lab Electron rocket lifts off from Launch Complex 1 in M&#x23c4;&#x2381;hia, New Zealand at 7:41 p.m. NZST (3:41 a.m. EDT) Saturday, May 25, 2024, on the first of two launches which Rocket Lab named &#x23e2;&#x2380;&#x239c;Ready, Aim, PREFIRE,&#x23e2;&#x2380;&#x239d; for NASA&#x23e2;&#x2380;&#x2399;s PREFIRE (Polar Radiant Energy in the Far-InfraRed Experiment) mission. The PREFIRE mission, expected to last at least 10 months, consists of sending two CubeSats to synchronous, near-polar orbits, to help close a gap in our understanding of how much of Earth&#x23e2;&#x2380;&#x2399;s heat is lost to space from the Arctic and Antarctica.   (A Rocket Lab Electron rocket lifts off from Launch Complex 1 in M&#x23c4;&#x2381;hia, New Zealand at 7:41 p.m. NZST (3:41 a.m. EDT) Saturday, May 25, 2024, on the first of two launches which Rocket Lab named &#x23e2;&#x2380;&#x239c;Ready, Aim, PREFIRE,&#x23e2;&#x2380;&#x239d; for NASA&#x23e2;&#x2380;&#x2399;s PREFIRE (Polar Radiant Energy in the Far-InfraRed Experiment) mission. The PREFIRE mission, expected to last at least 10 months, consists of sending two CubeSats to synchronous, near-polar orbits, to help close a gap in our understanding of how much of Earth&#x23e2;&#x2380;&#x2399;s heat is lost to space from the Arctic and Antarctica.  , ASCII, 553 components, 553 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Make</name>
+      <value type="VipsRefString">Canon (Canon, ASCII, 6 components, 6 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Model</name>
+      <value type="VipsRefString">Canon EOS R7 (Canon EOS R7, ASCII, 13 components, 13 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Orientation</name>
+      <value type="VipsRefString">1 (Internal error (unknown value 1), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-XResolution</name>
+      <value type="VipsRefString">72/1 (72, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-YResolution</name>
+      <value type="VipsRefString">72/1 (72, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-ResolutionUnit</name>
+      <value type="VipsRefString">2 (Internal error (unknown value 2), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Software</name>
+      <value type="VipsRefString">Adobe Photoshop Lightroom Classic 12.4 (Windows) (Adobe Photoshop Lightroom Classic 12.4 (Windows), ASCII, 49 components, 49 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-DateTime</name>
+      <value type="VipsRefString">2024:05:25 21:22:48 (2024:05:25 21:22:48, ASCII, 20 components, 20 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Artist</name>
+      <value type="VipsRefString">Rocket Lab (Rocket Lab, ASCII, 11 components, 11 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Copyright</name>
+      <value type="VipsRefString">&#x23c2;&#x23a9; 2024 Rocket Lab  (&#x23c2;&#x23a9; 2024 Rocket Lab , ASCII, 19 components, 19 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd1-Compression</name>
+      <value type="VipsRefString">6 (Internal error (unknown value 6), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd1-XResolution</name>
+      <value type="VipsRefString">72/1 (72, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd1-YResolution</name>
+      <value type="VipsRefString">72/1 (72, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd1-ResolutionUnit</name>
+      <value type="VipsRefString">2 (Internal error (unknown value 2), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ExposureTime</name>
+      <value type="VipsRefString">1/4000 (1/4000 sec., Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FNumber</name>
+      <value type="VipsRefString">11/1 (f/11.0, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ExposureProgram</name>
+      <value type="VipsRefString">1 (Internal error (unknown value 1), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ISOSpeedRatings</name>
+      <value type="VipsRefString">500 (500, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-SensitivityType</name>
+      <value type="VipsRefString">2 (Internal error (unknown value 2), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-RecommendedExposureIndex</name>
+      <value type="VipsRefString">500 (500, Long, 1 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ExifVersion</name>
+      <value type="VipsRefString">Exif Version 2.31 (Exif Version 2.31, Undefined, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-DateTimeOriginal</name>
+      <value type="VipsRefString">2024:05:25 19:43:27 (2024:05:25 19:43:27, ASCII, 20 components, 20 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-DateTimeDigitized</name>
+      <value type="VipsRefString">2024:05:25 19:43:27 (2024:05:25 19:43:27, ASCII, 20 components, 20 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-OffsetTime</name>
+      <value type="VipsRefString">+12:00 (+12:00, ASCII, 7 components, 7 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-OffsetTimeOriginal</name>
+      <value type="VipsRefString">+12:00 (+12:00, ASCII, 7 components, 7 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-OffsetTimeDigitized</name>
+      <value type="VipsRefString">+12:00 (+12:00, ASCII, 7 components, 7 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ShutterSpeedValue</name>
+      <value type="VipsRefString">11965784/1000000 (11.97 EV (1/4000 sec.), SRational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ApertureValue</name>
+      <value type="VipsRefString">6918863/1000000 (6.92 EV (f/11.0), Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ExposureBiasValue</name>
+      <value type="VipsRefString">0/1 (0.00 EV, SRational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-MaxApertureValue</name>
+      <value type="VipsRefString">475/100 (4.75 EV (f/5.2), Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-MeteringMode</name>
+      <value type="VipsRefString">5 (Internal error (unknown value 5), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-Flash</name>
+      <value type="VipsRefString">0 (Internal error (unknown value 0), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FocalLength</name>
+      <value type="VipsRefString">45/1 (45.0 mm, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-SubSecTimeOriginal</name>
+      <value type="VipsRefString">87 (87, ASCII, 3 components, 3 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-SubSecTimeDigitized</name>
+      <value type="VipsRefString">87 (87, ASCII, 3 components, 3 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ColorSpace</name>
+      <value type="VipsRefString">1 (Internal error (unknown value 1), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FocalPlaneXResolution</name>
+      <value type="VipsRefString">102732108/32768 (3135.13513, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FocalPlaneYResolution</name>
+      <value type="VipsRefString">102732108/32768 (3135.13513, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FocalPlaneResolutionUnit</name>
+      <value type="VipsRefString">3 (Internal error (unknown value 3), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-CustomRendered</name>
+      <value type="VipsRefString">0 (Internal error (unknown value 0), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ExposureMode</name>
+      <value type="VipsRefString">1 (Internal error (unknown value 1), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-WhiteBalance</name>
+      <value type="VipsRefString">0 (Internal error (unknown value 0), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-SceneCaptureType</name>
+      <value type="VipsRefString">0 (Internal error (unknown value 0), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-BodySerialNumber</name>
+      <value type="VipsRefString">128034001118 (128034001118, ASCII, 13 components, 13 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-LensSpecification</name>
+      <value type="VipsRefString">18/1 150/1 0/0 0/0 (18, 150, 0/0, 0/0, Rational, 4 components, 32 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-LensModel</name>
+      <value type="VipsRefString">RF-S18-150mm F3.5-6.3 IS STM (RF-S18-150mm F3.5-6.3 IS STM, ASCII, 29 components, 29 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-LensSerialNumber</name>
+      <value type="VipsRefString">2612000730 (2612000730, ASCII, 11 components, 11 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FlashpixVersion</name>
+      <value type="VipsRefString">FlashPix Version 1.0 (FlashPix Version 1.0, Undefined, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>orientation</name>
+      <value type="gint">1</value>
+    </property>
+    <property>
+      <name>vips-sequential</name>
+      <value type="gint">1</value>
+    </property>
+    <property>
+      <name>loop</name>
+      <value type="gint">1</value>
+    </property>
+  </properties>
+</image>

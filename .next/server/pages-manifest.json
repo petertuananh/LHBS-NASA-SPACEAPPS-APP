@@ -5,6 +5,5 @@
   "/": "pages/index.js",
   "/viewer/[imageId]": "pages/viewer/[imageId].js",
   "/upload": "pages/upload.js",
-  "/api/images": "pages/api/images.js",
-  "/api/upload": "pages/api/upload.js"
+  "/api/images": "pages/api/images.js"
 }

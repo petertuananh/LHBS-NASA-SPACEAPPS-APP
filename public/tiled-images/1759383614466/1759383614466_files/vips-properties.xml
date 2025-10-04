@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<image xmlns="http://www.vips.ecs.soton.ac.uk//dzsave" date="2025-10-02T05:40:14.620659Z" version="8.17.2">
+  <properties>
+    <property>
+      <name>width</name>
+      <value type="gint">700</value>
+    </property>
+    <property>
+      <name>height</name>
+      <value type="gint">579</value>
+    </property>
+    <property>
+      <name>bands</name>
+      <value type="gint">3</value>
+    </property>
+    <property>
+      <name>xoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>yoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>xres</name>
+      <value type="gdouble">2.8346456692913389</value>
+    </property>
+    <property>
+      <name>yres</name>
+      <value type="gdouble">2.8346456692913389</value>
+    </property>
+    <property>
+      <name>vips-loader</name>
+      <value type="VipsRefString">jpegload</value>
+    </property>
+    <property>
+      <name>resolution-unit</name>
+      <value type="VipsRefString">in</value>
+    </property>
+    <property>
+      <name>jpeg-multiscan</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>jpeg-chroma-subsample</name>
+      <value type="VipsRefString">4:2:0</value>
+    </property>
+    <property>
+      <name>exif-ifd0-ImageDescription</name>
+      <value type="VipsRefString">This latest image of Jupiter, taken by the NASA/ESA Hubble Space Telescope on 25 August 2020, was captured when the planet was 653 million kilometres from Earth. Hubble&#x23e2;&#x2380;&#x2399;s sharp view is giving researchers an updated weather report on the monster planet&#x23e2;&#x2380;&#x2399;s turbulent atmosphere, including a remarkable new storm brewing, and a cousin of the Great Red Spot changing colour &#x23e2;&#x2380;&#x2394; again. The new image also features Jupiter&#x23e2;&#x2380;&#x2399;s icy moon Europa. (This latest image of Jupiter, taken by the NASA/ESA Hubble Space Telescope on 25 August 2020, was captured when the planet was 653 million kilometres from Earth. Hubble&#x23e2;&#x2380;&#x2399;s sharp view is giving researchers an updated weather report on the monster planet&#x23e2;&#x2380;&#x2399;s turbulent atmosphere, including a remarkable new storm brewing, and a cousin of the Great Red Spot changing colour &#x23e2;&#x2380;&#x2394; again. The new image also features Jupiter&#x23e2;&#x2380;&#x2399;s icy moon Europa., ASCII, 441 components, 441 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-XResolution</name>
+      <value type="VipsRefString">72/1 (72, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-YResolution</name>
+      <value type="VipsRefString">72/1 (72, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-ResolutionUnit</name>
+      <value type="VipsRefString">2 (Internal error (unknown value 2), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ExifVersion</name>
+      <value type="VipsRefString">Exif Version 2.1 (Exif Version 2.1, Undefined, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FlashpixVersion</name>
+      <value type="VipsRefString">FlashPix Version 1.0 (FlashPix Version 1.0, Undefined, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ColorSpace</name>
+      <value type="VipsRefString">65535 (Internal error (unknown value 65535), Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>vips-sequential</name>
+      <value type="gint">1</value>
+    </property>
+    <property>
+      <name>loop</name>
+      <value type="gint">1</value>
+    </property>
+  </properties>
+</image>
