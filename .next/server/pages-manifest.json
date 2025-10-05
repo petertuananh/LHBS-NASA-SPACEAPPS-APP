@@ -3,7 +3,5 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/": "pages/index.js",
-  "/viewer/[imageId]": "pages/viewer/[imageId].js",
-  "/upload": "pages/upload.js",
   "/api/images": "pages/api/images.js"
 }

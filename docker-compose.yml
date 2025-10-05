@@ -1,0 +1,16 @@
+version: "3.9"
+
+services:
+  cosmic-lens:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    container_name: cosmic-lens
+    restart: unless-stopped
+    ports:
+      - "11112:11112"
+    environment:
+      # - NODE_ENV=production
+      - PORT=11112
+    volumes:
+      - .:/app

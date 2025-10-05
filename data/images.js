@@ -67,22 +67,64 @@ export const spaceImages = [
     "tileSource": "/tiled-images/1759470941303/1759470941303.dzi"
   },
   {
-    "id": "1759548020420",
-    "title": "dfjiohfi",
-    "description": "",
-    "tileSource": "/tiled-images/1759548020420/1759548020420.dzi"
+    "id": "1759630678675",
+    "title": "A back view of the Lunar Electric Rover",
+    "description": "A back view of the Lunar Electric Rover (LER) during the Desert Research and Technology Studies (RATS) remote field test at Black Point Lava Flow, Arizona in 2008. Two Mark III spacesuits are visibly mounted on the LER suit port.",
+    "tileSource": "/tiled-images/1759630678675/1759630678675.dzi"
   },
   {
-    "id": "1759548097663",
-    "title": "dfjiohfi",
-    "description": "",
-    "tileSource": "/tiled-images/1759548097663/1759548097663.dzi"
+    "id": "1759630896846",
+    "title": "A Partial Eclipse",
+    "description": "Millions of excited people in the U.S. traveled many miles see a total eclipse, and what a show it was. The SDO spacecraft was not so fortunate: its orbit only allowed it to observe a partial eclipse that at its peak covered only about 14 per cent of the sun (Aug. 21, 2017). Most of the people in the U.S. (weather permitting) observed at least 60 per cent coverage of the sun by the Moon. The good news for SDO is that it gets to see partial and solar eclipses several times a year. So, it all kind of balances out, in a way.\r\n",
+    "tileSource": "/tiled-images/1759630896846/1759630896846.dzi"
   },
   {
-    "id": "1759549399660",
-    "title": "khvasxhfjbdf",
+    "id": "1759630959565",
+    "title": "Partial eclipse of Beaver Moon 2021",
+    "description": "A nearly total eclipse of November’s full “Beaver Moon” occurs over the city of New Orleans in the early morning hours of Friday, November 19, 2021. The 97% eclipse clocked in at 3 hours, 28 minutes and 24 seconds making it the longest partial moon eclipse in 580 years.",
+    "tileSource": "/tiled-images/1759630959565/1759630959565.dzi"
+  },
+  {
+    "id": "1759631039289",
+    "title": "Total Lunar Eclipse & Blood Moon 2025",
+    "description": "Blood Moon/Lunar Eclipse on March 14th, 2025 seen from Brookpark, OH at NASA Glenn Research Center.. Photo Credit: (NASA/Jordan Cochran)",
+    "tileSource": "/tiled-images/1759631039289/1759631039289.dzi"
+  },
+  {
+    "id": "1759631151307",
+    "title": " Total solar eclipse on April 8, 2024",
     "description": "",
-    "tileSource": "/tiled-images/1759549399660/1759549399660.dzi"
+    "tileSource": "/tiled-images/1759631151307/1759631151307.dzi"
+  },
+  {
+    "id": "1759631278843",
+    "title": "The Milky Way Center Aglow with Dust",
+    "description": "Our Milky Way is a dusty place. So dusty that we cannot see the center of the galaxy in visible light. Thanks to NASA Spitzer Space Telescope excellent resolution, the dusty features within the galactic center are seen in unprecedented detail.",
+    "tileSource": "/tiled-images/1759631278843/1759631278843.dzi"
+  },
+  {
+    "id": "1759633657036",
+    "title": "Kepler Supernova Remnant: A View from Hubble Space Telescope",
+    "description": "This image represents a view of NASA Kepler supernova remnant taken in X-rays, visible light, and infrared radiation, indicating that the bubble of gas that makes up the supernova remnant appears different in various types of light.\r\n",
+    "tileSource": "/tiled-images/1759633657036/1759633657036.dzi"
+  },
+  {
+    "id": "1759633749787",
+    "title": "Three Great Eyes on Kepler Supernova Remnant",
+    "description": "The combined image unveils a bubble-shaped shroud of gas and dust that is 14light-years wide and is expanding at 4 million miles per hour (2,000 kilometersper second). Observations from each telescope highlight distinct features of thesupernova remnant, a fast-moving shell of iron-rich material from the explodedstar, surrounded by an expanding shock wave that is sweeping up interstellar gasand dust.",
+    "tileSource": "/tiled-images/1759633749787/1759633749787.dzi"
+  },
+  {
+    "id": "1759633935758",
+    "title": "Black Hole Jets Traced to Galactic Collisions",
+    "description": "A team of astronomers using the Hubble Space Telescope found an unambiguous link between the presence of supermassive black holes that power high-speed, radio-signal-emitting jets and the merger history of their host galaxies. Almost all galaxies with the jets were found to be merging with another galaxy, or to have done so recently.",
+    "tileSource": "/tiled-images/1759633935758/1759633935758.dzi"
+  },
+  {
+    "id": "1759635153338",
+    "title": "Cen A Optical Gamma Composite",
+    "description": "The gamma-ray output from Cen A's lobes exceeds their radio output by more than ten times. High-energy gamma rays detected by Fermi's Large Area Telescope are depicted as purple in this gamma ray/optical composite of the galaxy.\r\n",
+    "tileSource": "/tiled-images/1759635153338/1759635153338.dzi"
   }
 
 ];

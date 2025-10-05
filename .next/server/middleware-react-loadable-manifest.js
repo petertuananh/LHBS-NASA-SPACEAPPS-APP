@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST="{\"pages/viewer/[imageId].js -> openseadragon\":{\"id\":\"pages/viewer/[imageId].js -> openseadragon\",\"files\":[\"static/chunks/node_modules_openseadragon_build_openseadragon_openseadragon_js.js\"]}}"
+self.__REACT_LOADABLE_MANIFEST="{}"
